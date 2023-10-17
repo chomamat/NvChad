@@ -9,6 +9,9 @@ g.toggle_theme_icon = "   "
 g.transparency = config.ui.transparency
 
 -------------------------------------- options ------------------------------------------
+-- my options
+opt.colorcolumn = "100"
+
 opt.laststatus = 3 -- global statusline
 opt.showmode = false
 
